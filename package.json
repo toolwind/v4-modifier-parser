@@ -1,6 +1,6 @@
 {
   "name": "@toolwind/v4-modifier-parser",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "v4-modifier-parser for Tailwind CSS provides a simple API for working with CSS anchor positioning, enabling flexible, declarative positioning relative to custom v4-modifier-parser.",
   "type": "module",
   "source": "index.ts",
